@@ -15,7 +15,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@twentythree/ui": ["libs/ui/src/index.ts"],
+      "@twentythree/map": ["libs/map/src/index.ts"],
+      "@twentythree/layout": ["libs/layout/src/index.ts"],
+      "@twentythree/chart": ["libs/chart/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

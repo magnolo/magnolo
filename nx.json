@@ -25,6 +25,18 @@
     "mainapp-e2e": {
       "tags": [],
       "implicitDependencies": ["mainapp"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "map": {
+      "tags": []
+    },
+    "layout": {
+      "tags": []
+    },
+    "chart": {
+      "tags": []
     }
   }
 }
